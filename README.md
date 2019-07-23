@@ -1,2 +1,2 @@
 # Marketing-Data-Analysis-of-a-Bank
-This is an assignment project which analyzes the historical sales records and predicts the sales
+An assignment project which analyzes the demographic and marketing campaign related information of client records to predict if he/she will subscribe to the product or not
