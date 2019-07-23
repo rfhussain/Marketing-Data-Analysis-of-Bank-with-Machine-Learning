@@ -1,7 +1,8 @@
-# Marketing-Data-Analysis-of-a-Bank
+# Marketing Data Analysis of a Bank Using Machine Learning Techniques
+
 An assignment project which analyzes the demographic and marketing campaign related information of client records to predict if he/she will subscribe to the product or not.
 
-### Exploratory Data Analysis
+### 1-Exploratory Data Analysis
 
 ##### - For Numerical Columns
 1- Analysis of each Numerical variable by plotting Boxplot with respect to target variable. 
@@ -18,11 +19,11 @@ An assignment project which analyzes the demographic and marketing campaign rela
 1- Created new dummy variables to convert Categorical into Numerical. 
 2- Total variables after creating dummies becomes 39. 
 
-### Feature Selection
+### 2-Feature Selection
 1- Feature selection by Principal Component Analysis. 
 2- I have selected first 32 components out of 39
 
-### Model Training
+### 3-Model Training
 ##### Implement the following along with Cross Validation:
 - Logistic Regression
 - Linear Discriminant Analysis
@@ -31,15 +32,15 @@ An assignment project which analyzes the demographic and marketing campaign rela
 - Naive Bayes
 - Support Vector Machine 
 
-### Model Selection
+### 4-Model Selection
 1- ```Support Vector Machine``` has highest Accuracy (89.35%) but it is taking more time compare to other algorithms. 
 2- ```Logistic Regression``` also has nearly same accuracy (89.17%) and it is very faster than SVM. 
 3. So I have considered Logistic Regression as Best model for prediction. 
 
-### Prediction
+### 5-Prediction
 1- Prediction on Validation Dataset by Logistic Regression with following result: 
 - Accuracy – 0.88            
 - F1-score – 0.87 
 
-### Source File
+### 6-Source File
 [Source File](cls_model.ipynb)
