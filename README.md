@@ -33,12 +33,12 @@ An assignment project which analyzes the demographic and marketing campaign rela
 - Support Vector Machine 
 
 ### 4-Model Selection
-```Support Vector Machine``` has highest Accuracy (89.35%) but it is taking more time compare to other algorithms. 
-```Logistic Regression``` also has nearly same accuracy (89.17%) and it is very faster than SVM. 
+- ```Support Vector Machine``` has highest Accuracy (89.35%) but it is taking more time compare to other algorithms. 
+- ```Logistic Regression``` also has nearly same accuracy (89.17%) and it is very faster than SVM. 
 3. So I have considered Logistic Regression as Best model for prediction. 
 
 ### 5-Prediction
-1- Prediction on Validation Dataset by Logistic Regression with following result: 
+Prediction on Validation Dataset by Logistic Regression with following result: 
 - Accuracy – 0.88            
 - F1-score – 0.87 
 
