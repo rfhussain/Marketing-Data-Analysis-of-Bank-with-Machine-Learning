@@ -1,4 +1,4 @@
-# Marketing Data Analysis of a Bank Using Machine Learning Techniques
+# Marketing Data Analysis of a Bank (Machine Learning) 
 
 An assignment project which analyzes the demographic and marketing campaign related information of client records to predict if he/she will subscribe to the product or not.
 
